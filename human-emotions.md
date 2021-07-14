@@ -1,46 +1,47 @@
 # List of Human Emotions
-Acceptance
-Affection
-Aggression
-Ambivalence
-Apathy
-Anxiety
-Boredom
-Compassion
-Confusion
-Contempt
-Depression
-Doubt
-Ecstasy
-Empathy
-Envy
-Embarrassment
-Euphoria
-Forgiveness
-Frustration
-Gratitude
-Grief
-Guilt
-Hatred
-Hope
-Horror
-Hostility
-Homesickness
-Hunger
-Hysteria
-Interest
-Loneliness
-Love
-Paranoia
-Pity
-Pleasure
-Pride
-Rage
-Regret
-Remorse
-Shame
-Suffering
-Sympathy
+
+- Acceptance
+- Affection
+- Aggression
+- Ambivalence
+- Apathy
+- Anxiety
+- Boredom
+- Compassion
+- Confusion
+- Contempt
+- Depression
+- Doubt
+- Ecstasy
+- Empathy
+- Envy
+- Embarrassment
+- Euphoria
+- Forgiveness
+- Frustration
+- Gratitude
+- Grief
+- Guilt
+- Hatred
+- Hope
+- Horror
+- Hostility
+- Homesickness
+- Hunger
+- Hysteria
+- Interest
+- Loneliness
+- Love
+- Paranoia
+- Pity
+- Pleasure
+- Pride
+- Rage
+- Regret
+- Remorse
+- Shame
+- Suffering
+- Sympathy
 
 Source: https://psychologenie.com/list-of-human-emotions
 
